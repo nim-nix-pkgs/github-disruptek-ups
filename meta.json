@@ -1,0 +1,77 @@
+{
+  "description": "a package handler",
+  "license": "MIT",
+  "method": "git",
+  "name": "github-disruptek-ups",
+  "tags": [
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/tags/0.0.2",
+      "url": "https://github.com/disruptek/ups",
+      "version": "0_0_2"
+    },
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/tags/0.0.3",
+      "url": "https://github.com/disruptek/ups",
+      "version": "0_0_3"
+    },
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/tags/0.0.4",
+      "url": "https://github.com/disruptek/ups",
+      "version": "0_0_4"
+    },
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/tags/0.0.5",
+      "url": "https://github.com/disruptek/ups",
+      "version": "0_0_5"
+    },
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/tags/0.0.6",
+      "url": "https://github.com/disruptek/ups",
+      "version": "0_0_6"
+    },
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/tags/0.0.7",
+      "url": "https://github.com/disruptek/ups",
+      "version": "0_0_7"
+    }
+  ],
+  "url": "https://github.com/disruptek/ups",
+  "refs": [
+    "refs/heads/master",
+    "refs/tags/0.0.2",
+    "refs/tags/0.0.3",
+    "refs/tags/0.0.4",
+    "refs/tags/0.0.5",
+    "refs/tags/0.0.6",
+    "refs/tags/0.0.7",
+    ""
+  ],
+  "heads": [
+    {
+      "description": "a package handler",
+      "license": "MIT",
+      "name": "github-disruptek-ups",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/disruptek/ups",
+      "version": "master"
+    }
+  ]
+}
