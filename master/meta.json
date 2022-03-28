@@ -1,0 +1,8 @@
+{
+  "description": "a package handler",
+  "license": "MIT",
+  "name": "github-disruptek-ups",
+  "ref": "refs/heads/master",
+  "url": "https://github.com/disruptek/ups",
+  "version": "master"
+}
