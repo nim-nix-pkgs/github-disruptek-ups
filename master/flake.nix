@@ -18,8 +18,8 @@
   inputs."npeg".repo  = "npeg";
   inputs."npeg".dir   = "0_26_0";
   inputs."npeg".type  = "github";
-  # inputs."npeg".inputs.nixpkgs.follows = "nixpkgs";
-  # inputs."npeg".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  inputs."npeg".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."npeg".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
